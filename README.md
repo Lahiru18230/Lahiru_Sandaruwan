@@ -187,7 +187,7 @@ Researching security challenges in cloud computing environments
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=pasindu21hl&color=red&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=lahiru18230&color=red&style=for-the-badge&label=Profile+Views)
 
 **🛡️ Building cyber resilience through knowledge and innovation 🛡️**
 
