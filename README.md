@@ -159,8 +159,8 @@ Researching security challenges in cloud computing environments
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-heshan-6735b22b4/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasindu21hl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-sandaruwan-645283244)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lahiru18230)
 
 ### 🤝 Open For
 ![Security Research](https://img.shields.io/badge/Security-Research-red?style=for-the-badge&logo=shield&logoColor=white)
